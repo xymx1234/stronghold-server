@@ -1,0 +1,279 @@
+{
+ "version": 2,
+ "groups": {
+  "emoticon/basic": {
+   "pic_cooperate_battle": {
+    "path": "./assets/local/emoticon/basic/pic_cooperate_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_happy_battle": {
+    "path": "./assets/local/emoticon/basic/pic_happy_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_scared_battle": {
+    "path": "./assets/local/emoticon/basic/pic_scared_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_sorry_battle": {
+    "path": "./assets/local/emoticon/basic/pic_sorry_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_thanks_battle": {
+    "path": "./assets/local/emoticon/basic/pic_thanks_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_thinking_battle": {
+    "path": "./assets/local/emoticon/basic/pic_thinking_battle.webp",
+    "w": 128,
+    "h": 128
+   }
+  },
+  "emoticon/basic_2": {
+   "pic_call_battle": {
+    "path": "./assets/local/emoticon/basic_2/pic_call_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_dying_battle": {
+    "path": "./assets/local/emoticon/basic_2/pic_dying_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_noproblem_battle": {
+    "path": "./assets/local/emoticon/basic_2/pic_noproblem_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_playingcool_battle": {
+    "path": "./assets/local/emoticon/basic_2/pic_playingcool_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_respect_battle": {
+    "path": "./assets/local/emoticon/basic_2/pic_respect_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_sad_battle": {
+    "path": "./assets/local/emoticon/basic_2/pic_sad_battle.webp",
+    "w": 128,
+    "h": 128
+   }
+  },
+  "emoticon/slug": {
+   "pic_bye_battle": {
+    "path": "./assets/local/emoticon/slug/pic_bye_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_distrust_battle": {
+    "path": "./assets/local/emoticon/slug/pic_distrust_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_nice_work_battle": {
+    "path": "./assets/local/emoticon/slug/pic_nice_work_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_sorry_battle": {
+    "path": "./assets/local/emoticon/slug/pic_sorry_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_thanks_battle": {
+    "path": "./assets/local/emoticon/slug/pic_thanks_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_very_soon_battle": {
+    "path": "./assets/local/emoticon/slug/pic_very_soon_battle.webp",
+    "w": 128,
+    "h": 128
+   }
+  },
+  "emoticon/foolamiya": {
+   "pic_foolamiya_01_battle": {
+    "path": "./assets/local/emoticon/foolamiya/pic_foolamiya_01_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_foolamiya_02_battle": {
+    "path": "./assets/local/emoticon/foolamiya/pic_foolamiya_02_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_foolamiya_03_battle": {
+    "path": "./assets/local/emoticon/foolamiya/pic_foolamiya_03_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_foolamiya_04_battle": {
+    "path": "./assets/local/emoticon/foolamiya/pic_foolamiya_04_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_foolamiya_05_battle": {
+    "path": "./assets/local/emoticon/foolamiya/pic_foolamiya_05_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_foolamiya_06_battle": {
+    "path": "./assets/local/emoticon/foolamiya/pic_foolamiya_06_battle.webp",
+    "w": 128,
+    "h": 128
+   }
+  },
+  "emoticon/foolwisdel": {
+   "pic_foolwisdel_01_battle": {
+    "path": "./assets/local/emoticon/foolwisdel/pic_foolwisdel_01_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_foolwisdel_02_battle": {
+    "path": "./assets/local/emoticon/foolwisdel/pic_foolwisdel_02_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_foolwisdel_03_battle": {
+    "path": "./assets/local/emoticon/foolwisdel/pic_foolwisdel_03_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_foolwisdel_04_battle": {
+    "path": "./assets/local/emoticon/foolwisdel/pic_foolwisdel_04_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_foolwisdel_05_battle": {
+    "path": "./assets/local/emoticon/foolwisdel/pic_foolwisdel_05_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_foolwisdel_06_battle": {
+    "path": "./assets/local/emoticon/foolwisdel/pic_foolwisdel_06_battle.webp",
+    "w": 128,
+    "h": 128
+   }
+  },
+  "emoticon/fooldoctor": {
+   "pic_fooldoctor_01_battle": {
+    "path": "./assets/local/emoticon/fooldoctor/pic_fooldoctor_01_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_fooldoctor_02_battle": {
+    "path": "./assets/local/emoticon/fooldoctor/pic_fooldoctor_02_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_fooldoctor_03_battle": {
+    "path": "./assets/local/emoticon/fooldoctor/pic_fooldoctor_03_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_fooldoctor_04_battle": {
+    "path": "./assets/local/emoticon/fooldoctor/pic_fooldoctor_04_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_fooldoctor_05_battle": {
+    "path": "./assets/local/emoticon/fooldoctor/pic_fooldoctor_05_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_fooldoctor_06_battle": {
+    "path": "./assets/local/emoticon/fooldoctor/pic_fooldoctor_06_battle.webp",
+    "w": 128,
+    "h": 128
+   },
+   "pic_fooldoctor_08_battle": {
+    "path": "./assets/local/emoticon/fooldoctor/pic_fooldoctor_08_battle.webp",
+    "w": 128,
+    "h": 128
+   }
+  },
+  "ui/battle": {
+   "equip_replace_arrow_head": {
+    "path": "./assets/ui/battle/equip_replace_arrow_head.webp",
+    "w": 64,
+    "h": 64
+   },
+   "equip_replace_arrow_line": {
+    "path": "./assets/ui/battle/equip_replace_arrow_line.webp",
+    "w": 64,
+    "h": 64
+   },
+   "equip_replace_avatart_bg": {
+    "path": "./assets/ui/battle/equip_replace_avatart_bg.webp",
+    "w": 64,
+    "h": 64
+   },
+   "equip_replace_avatart_frame": {
+    "path": "./assets/ui/battle/equip_replace_avatart_frame.webp",
+    "w": 64,
+    "h": 64
+   },
+   "equip_replace_bg": {
+    "path": "./assets/ui/battle/equip_replace_bg.webp",
+    "w": 64,
+    "h": 64
+   },
+   "equip_replace_comfirm_icon": {
+    "path": "./assets/ui/battle/equip_replace_comfirm_icon.webp",
+    "w": 64,
+    "h": 64
+   },
+   "equip_replace_opition_select_01_bg": {
+    "path": "./assets/ui/battle/equip_replace_opition_select_01_bg.webp",
+    "w": 64,
+    "h": 64
+   },
+   "equip_replace_opition_select_02_bg": {
+    "path": "./assets/ui/battle/equip_replace_opition_select_02_bg.webp",
+    "w": 64,
+    "h": 64
+   },
+   "equip_replace_opiton_bg": {
+    "path": "./assets/ui/battle/equip_replace_opiton_bg.webp",
+    "w": 64,
+    "h": 64
+   },
+   "equip_replace_replace_icon": {
+    "path": "./assets/ui/battle/equip_replace_replace_icon.webp",
+    "w": 64,
+    "h": 64
+   },
+   "equip_replace_round": {
+    "path": "./assets/ui/battle/equip_replace_round.webp",
+    "w": 64,
+    "h": 64
+   },
+   "sprite_box_shadow": {
+    "path": "./assets/ui/battle/sprite_box_shadow.webp",
+    "w": 64,
+    "h": 64
+   },
+   "sprite_direction_arrow": {
+    "path": "./assets/ui/battle/sprite_direction_arrow.webp",
+    "w": 64,
+    "h": 64
+   },
+   "sprite_direction_ring": {
+    "path": "./assets/ui/battle/sprite_direction_ring.webp",
+    "w": 64,
+    "h": 64
+   },
+   "sprite_shadow": {
+    "path": "./assets/ui/battle/sprite_shadow.webp",
+    "w": 64,
+    "h": 64
+   }
+  }
+ }
+}
