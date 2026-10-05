@@ -97,8 +97,8 @@ export function getData({ dir = DATA_DIR, log = console } = {}) {
 export function resetData() { singleton = null; }
 
 /**
- * Inject a preloaded data map (in-page standalone builds: the embedded bundle is the only data source, there is no
- * DATA_DIR on disk, so getData() must return the embedded map instead of loading nothing).
+ * Inject a preloaded data object (browser standalone: the engine runs in-page and receives the packed data directly).
+ * Any subsequent getData() returns this object; passing null restores the default load path.
  */
 export function setData(d) { singleton = d || null; }
 

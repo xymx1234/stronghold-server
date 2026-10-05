@@ -273,6 +273,21 @@
     "path": "./assets/ui/battle/sprite_shadow.webp",
     "w": 64,
     "h": 64
+   },
+   "emoji_btn": {
+    "path": "./assets/local/ui/battle/emoji_btn.webp"
+   },
+   "emoji_btn_disable": {
+    "path": "./assets/local/ui/battle/emoji_btn_disable.webp"
+   },
+   "emoji_bkg": {
+    "path": "./assets/local/ui/battle/emoji_bkg.webp"
+   },
+   "emoji_cell_bkg": {
+    "path": "./assets/local/ui/battle/emoji_cell_bkg.webp"
+   },
+   "emoji_bubble_bkg": {
+    "path": "./assets/local/ui/battle/emoji_bubble_bkg.webp"
    }
   }
  }
